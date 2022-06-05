@@ -42,11 +42,6 @@
 - Each request in the collection should be rightly named. Eg Create college, Get college details etc
 - Each member of each team should have their tests in running state
 
-
-Refer below sample
-
- ![A Postman collection and request sample](assets/Postman-collection-sample.png)
-
 ## Response
 
 ### Successful Response structure
